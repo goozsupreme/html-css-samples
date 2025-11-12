@@ -5,21 +5,26 @@
     background-color: red;
     padding-top: 20px;
     }
+
 #sidebar a:hover {
     color: #f1f1f1;
     }
+
 #main {
     margin-left: 250px;
     font-size: 14px;
     padding: 0px 30px;
     }
+
 h1, h2, h3 {
     font-size: 30px;
     color: red;
     }
+
 body {
     background-color: springgreen;
     }
+    
 .abilites {
     float: right;
     display: block;
